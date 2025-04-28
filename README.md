@@ -18,6 +18,6 @@ SQLAlchemy, sys, getopt, datetime, pandas, dash, dash_core_components, dash_html
 através da análise de dados e apresentações de gráficos em Dashboard.
 
 Arquivos do Projeto:
-* readme.txt
-* apresentacao_projeto_sprint12.pdf
-* trending_by_time.csv
+* readme.txt (explicativo de como acessar os arquivos)
+* apresentacao_projeto_sprint12.pdf (apresentação das análises e resultados)
+* trending_by_time.csv (dataset utilizado)
