@@ -1,6 +1,6 @@
 # Automação, Pipelines e Dashboards 
 
-Apresentação do Projeto:
+**Apresentação do Projeto:** <br>
 Este Projeto foi desenvolvido como requisito para aprovação na Sprint 12 do Bootcamp de Análise de Dados da Tripleten.
 
 🧩O Projeto abordou os seguintes conhecimentos:
@@ -16,6 +16,7 @@ SQLAlchemy, sys, getopt, datetime, pandas, dash, dash_core_components, dash_html
 
 💡O Projeto consistiu em analisar anúncios em vídeo de uma agência de publicidade para identificar distribuições e tendências, <br>
 através da análise de dados e apresentações de gráficos em Dashboard.
+
 
 Arquivos do Projeto:
 * readme.txt (explicativo de como acessar os arquivos)
